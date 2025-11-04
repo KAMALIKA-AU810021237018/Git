@@ -3,3 +3,6 @@
 
 ### This is login component
 Login component
+
+## This is register component
+Register component
